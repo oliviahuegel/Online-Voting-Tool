@@ -2,7 +2,7 @@
 This project is an online voting tool in C++ developed as a final project in an Object-Oriented Software Design class
 
 How to use the State of Florida Online Voting System 
-#Read all prompts before entering input into the console.
+Read all prompts before entering input into the console.
 1. Enter your first name, last name, birth month, birth day, birth year, and Social Security Number. If your Social Security Number is invalid (not 9 digits), you will not be eligible to vote in the election and the program will close.
 If your Social Security Number is valid, you will be able to vote in the election.
 2. Next, select your county from the list of counties displayed on the screen.
